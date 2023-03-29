@@ -8,7 +8,7 @@ public class EmailValidation
 
 	public static void main(String[]args)
 	{
-		String email="tlav790@gmail.com";
+		String email="suneel@gmail.com";
 		System.out.println(valEmail(email));
 	
     }
